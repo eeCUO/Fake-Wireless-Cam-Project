@@ -17,10 +17,12 @@ Throughout the course, I gained in-depth knowledge of the entire lifecycle of an
 - **Manufacturing File Preparation:** Generating Gerber, NC Drill, and BOM files for production.  
 
 Below are some screenshots of the project:
+![Render 161](https://github.com/user-attachments/assets/6b3cbb90-7b25-4d8c-9205-a78f2f7239a9)
+![Render 160](https://github.com/user-attachments/assets/fba0e241-3668-48ce-ac5b-a362b73de19f)
+![Render 166](https://github.com/user-attachments/assets/d95a5323-e731-4e8f-8516-e5c954fbf162)
+![Render 155](https://github.com/user-attachments/assets/4fdb2013-a346-41e6-8f79-5f69376510fe)
 
-![Render 160](https://github.com/user-attachments/assets/97b68755-2691-4bee-92a1-bf95f92ab079)
-![Render 166](https://github.com/user-attachments/assets/d8183781-c9de-4fea-80ef-c1d63587e436)
-![Render 156](https://github.com/user-attachments/assets/459181e0-965e-4887-94c8-003653b7d8f4)
+
 
 
 
